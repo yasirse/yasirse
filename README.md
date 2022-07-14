@@ -58,9 +58,9 @@ As dba responsibility include :<br/>
 - Configured Data Guard Command-Line Interface
  
 **My Oralce DBA Blog<br/>
-[Yasir Oracle DBA](http://yasirdba.blogspot.com/)
+[Yasir Oracle DBA URL ](http://yasirdba.blogspot.com/)
 
-### Learning management system  (Aug 2010-Sep 2013 ) 
+### [Learning management system  (Aug 2010-Sep 2013 ) ](http://slate.nu.edu.pk)
 **Role:**<br/>
 Infra structure, Deployment and API Development<br/>
 **Technologies:**<br/>
