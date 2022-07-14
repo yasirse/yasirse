@@ -32,10 +32,10 @@ MVC model by using Codeigniter, PHP Eclipse, Adobe Dreamweaver, Adobe Photoshop.
 Portal developed to bring the alumni to single plateform. Alumni can share news, job, scholarship and success stories. They can connect each others. Admin can send news to all alumni.
 ### Campus Website (2011)
 **Role:**<br/>
-**Webmaster<br/>
+**Webmaster**<br/>
 **Tools:**<br/>
 MVC model by using Codeigniter, PHP Eclipse, Adobe Dreamweaver, Adobe Photoshop.<br/>
-Details:**<br/>
+**Details:**<br/>
 Sites developed to enhance and accommodate university. Live Data Retrieval & Presentation from various data sources. Web Site Management & Development including User Login, Session Management and Complete Site Content Management. Sending Promotion Emails, News Letters.
 
 
