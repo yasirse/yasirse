@@ -63,6 +63,14 @@ SLATE is the University’s central collaboration and learning management system
 * Load balancing using Apache
 * Build API to Import Local database into Sakai database
 * Technical Support
+### Admission System (2011)
+**Role:**<br\>
+Development and operation
+**Tools:**<br\>
+C# ASP.NET, Oracle  
+**Details:**<br\>
+NUTES, a new Admissions system, the complete software solution for the Admissions Office. NUTES organize and streamlines the entire admissions process - from initial inquiry through acceptance and enrollment. Receive application from students according to their qualifications. Produce rank list according to the collected data in various departments. Separate rank list for each departments and reserved categories.
+
 
 
 
