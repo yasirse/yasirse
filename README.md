@@ -29,6 +29,27 @@ MVC model by using Codeigniter, PHP Eclipse, Adobe Dreamweaver, Adobe Photoshop.
 **Details:**
 Portal developed to bring the alumni to single plateform. Alumni can share news, job, scholarship and success stories. They can connect each others. Admin can send news to all alumni.
 
+## Oracle 11g DBA (Aug 2010-Aug 2015)
+**As dba responsibility include :<br\>
+- Installing Oracle Database on window/linux
+- Installing Oracle Database on virtual Machine
+- Configuring the Network Environment
+- Managing the Oracle Instance
+- Managing Schema Objects
+- Performing Backup and Recovery
+- Monitoring and Tuning the Database
+
+## Oracle Data Gurad (Jan 2013-Aug 2013 )<br/>
+ During my job I have successfully configured the data guard with 11g. I have worked on following configuration.
+- Creating and Maintaining a Password File
+- Create physical duplicate and standby server
+- Configured data guard broker
+- Configured Data Guard Command-Line Interface
+ 
+**My Oralce DBA Blog<br/>
+[Yasir Oracle DBA](http://yasirdba.blogspot.com/)
+
+
 
 
 
