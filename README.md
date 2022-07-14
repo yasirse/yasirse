@@ -10,11 +10,19 @@ I have worked on web development using custom PHP, CodeIgniter 3.0 and ASP.Net. 
 - Collaborates closely with customers
 - Monitors timeliness of attendance at team meetings
 
+## Attendance System (November 2016)
+#### Role:
+Team Lead
+#### Tools:
+MVC model by using Codeigniter, PHP Eclipse, Adobe Dreamweaver, Adobe Photoshop.
+#### Functions:
+* This system is integrated with RFID, it record their daily based attendance.
+* Employee can view their attendance.
+* It send email alert to employee of single entry , absent and leave application status.
+* It has roles hierarchy i.e common user, manager1 manger2 and manager3
 
 
 
 
-<!---
-yasirse/yasirse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
