@@ -1,6 +1,7 @@
 ## Summary
 I am Prof. Yasir Arfat, I have 8 years of development and 4 teaching experience. During my development job,
 I have worked on web development using custom PHP, CodeIgniter 3.0 and ASP.Net. For website UI designing i have experience of CSS, Adobe photoshop, Javascript, JQuery and Boostrap. I have also worked on Sakai LMS(ERP) integration with University(FAST NU)student managment system in Java. I have Oracel DBA experience. also worked on other databases mySQL and SQLServer. I’m currently learning Laravel, Vue.js and GitHub. I am looking for freelancing website project or job. You can contact ( yasir dot arfatse at gmail.com).
+### Lecturer(2018-present)
 ### Team LeadTeam Lead  (FAST-NU FAST-NU Dec 2016 - Sep 2017)
 - Consistently delivers working software that meets standards
 - Efficiently executes assigned actions
@@ -10,7 +11,7 @@ I have worked on web development using custom PHP, CodeIgniter 3.0 and ASP.Net. 
 - Collaborates closely with customers
 - Monitors timeliness of attendance at team meetings
 
-## Attendance System (November 2016)
+### Attendance System (November 2016)
 **Role:**<br/>
 Team Lead<br/>
 **Tools:**<br/>
@@ -21,7 +22,7 @@ MVC model by using Codeigniter, PHP Eclipse, Adobe Dreamweaver, Adobe Photoshop.
 * It send email alert to employee of single entry , absent and leave application status.
 * It has roles hierarchy i.e common user, manager1 manger2 and manager3
 
-## Alumni Portal (march-2016)
+### Alumni Portal (march-2016)
 **Role:**<br/>
 Developer<br/>
 **Tools:**<br/>
@@ -29,7 +30,7 @@ MVC model by using Codeigniter, PHP Eclipse, Adobe Dreamweaver, Adobe Photoshop.
 **Details:**
 Portal developed to bring the alumni to single plateform. Alumni can share news, job, scholarship and success stories. They can connect each others. Admin can send news to all alumni.
 
-## Oracle 11g DBA (Aug 2010-Aug 2015)
+### Oracle 11g DBA (Aug 2010-Aug 2015)
 **As dba responsibility include :<br\>
 - Installing Oracle Database on window/linux
 - Installing Oracle Database on virtual Machine
@@ -39,7 +40,7 @@ Portal developed to bring the alumni to single plateform. Alumni can share news,
 - Performing Backup and Recovery
 - Monitoring and Tuning the Database
 
-## Oracle Data Gurad (Jan 2013-Aug 2013 )<br/>
+### Oracle Data Gurad (Jan 2013-Aug 2013 )<br/>
  During my job I have successfully configured the data guard with 11g. I have worked on following configuration.
 - Creating and Maintaining a Password File
 - Create physical duplicate and standby server
@@ -49,7 +50,7 @@ Portal developed to bring the alumni to single plateform. Alumni can share news,
 **My Oralce DBA Blog<br/>
 [Yasir Oracle DBA](http://yasirdba.blogspot.com/)
 
-## Learning management system  (Aug 2010-Sep 2013 ) 
+### Learning management system  (Aug 2010-Sep 2013 ) 
 **Role:**<br\>
 Infra structure, Deployment and API Development<br\>
 **Technologies:**<br\>
