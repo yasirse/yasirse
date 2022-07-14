@@ -52,11 +52,11 @@ Portal developed to bring the alumni to single plateform. Alumni can share news,
 [Yasir Oracle DBA](http://yasirdba.blogspot.com/)
 
 ### Learning management system  (Aug 2010-Sep 2013 ) 
-**Role:**<br\>
-Infra structure, Deployment and API Development<br\>
-**Technologies:**<br\>
-Eclipse IDE, Window server 2003/2008, Linux(centos/ubuntu), Oracle 9i<br\>
-**Details:**<br\>
+**Role:**<br/>
+Infra structure, Deployment and API Development<br/>
+**Technologies:**<br/>
+Eclipse IDE, Window server 2003/2008, Linux(centos/ubuntu), Oracle 9i<br/>
+**Details:**<br/>
 SLATE is the University’s central collaboration and learning management system. It provides an online space where students access learning resources within course sites, participate in online activities, and communicate with faculty, staff and other students. All courses offered by the University have a corresponding course website. SLATE also contains community websites which are used to support a range of other teaching and learning activities. My responsibility include <br\>
 * Infrastructure
 * Deployment using Apache tomcat
@@ -64,11 +64,11 @@ SLATE is the University’s central collaboration and learning management system
 * Build API to Import Local database into Sakai database
 * Technical Support
 ### Admission System (2011)
-**Role:**<br\>
-Development and operation
-**Tools:**<br\>
-C# ASP.NET, Oracle  
-**Details:**<br\>
+**Role:**<br/>
+Development and operation <br/>
+**Tools:**<br/>
+C# ASP.NET, Oracle  <br/>
+**Details:**<br/>
 NUTES, a new Admissions system, the complete software solution for the Admissions Office. NUTES organize and streamlines the entire admissions process - from initial inquiry through acceptance and enrollment. Receive application from students according to their qualifications. Produce rank list according to the collected data in various departments. Separate rank list for each departments and reserved categories.
 
 
