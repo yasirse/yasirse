@@ -78,7 +78,28 @@ Development and operation <br/>
 C# ASP.NET, Oracle  <br/>
 **Details:**<br/>
 NUTES, a new Admissions system, the complete software solution for the Admissions Office. NUTES organize and streamlines the entire admissions process - from initial inquiry through acceptance and enrollment. Receive application from students according to their qualifications. Produce rank list according to the collected data in various departments. Separate rank list for each departments and reserved categories.
+### Token system for admission ( 2011)
+**Role:**<br/>
+Deployment and operation <br/>
+**Tools:**<br/>
+Window server 2003 WMwear ,Oracle 9i<br/>
+**Details:**<br/>
+Qsetup is designed to handle students Queue during Admission process. Administrator can set By Pass Time And maximum number of bypass call for a particular token. Set Priority For the customer Like Privileged Customer and Customer. Configure Full Day Closer time as well as half day closer time. Configure Pause reasons. Reassign token from one type to another.• View the online stands counter wise, service wise & user wise.
+### Lead Management System (2010)
+**Role:**<br/>
+Developer<br/>
+**Tools:**<br/>
+PHP Eclipse, Adobe Dreamweaver.<br/>
+**Details:**<br/>
+LMS lead & contact management system automates the entire lead processing function, from lead capture, analysis and assignment, through to "closed loop" contact management and detailed status / trend reports. There are features like email notifications/reminders, report generators etc in this system.
 
+###Search Engine (2010)
+**Role:**<br/>
+Developer<br/>
+**Tools:**<br/>
+ Microsoft C# .NET, Microsoft ASP .NET, Web Services, Microsoft SQL Server 2005&2008.<br/>
+**Details:**<br/>
+ This is an online site for searching Cars , People, Business and cities from all over the world. I had worked  on People finder by Name, address, phone and Email Address. I have Also built the admin control; admin can view all cars, user’s interest in cars, update, and delete. Searching new Cars on given prices, make, model, sub model. 
 
 
 
