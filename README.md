@@ -1,5 +1,5 @@
 ## Summary
-I am Prof. Yasir Arfat, I have 8 years of development and 4 teaching experience. During my development job,
+I am Prof. Yasir Arfat, I have 8 years of development and 4 years of teaching experience. During my development job,
 I have worked on web development using custom PHP, CodeIgniter 3.0 and ASP.Net. For website UI designing i have experience of CSS, Adobe photoshop, Javascript, JQuery and Boostrap. I have also worked on Sakai LMS(ERP) integration with University(FAST NU)student managment system in Java. I have Oracel DBA experience. also worked on other databases mySQL and SQLServer. I’m currently learning Laravel, Vue.js and GitHub. I am looking for freelancing website project or job. You can contact ( yasir dot arfatse at gmail.com).
 ### Lecturer(2018-present)
 I have joined as Lecturer Computer Science at Govt. College Chowk Azam in 2018. There i have been teaching Programming, Data Structure, Database, Web development, Computer Networking , Operating system.
