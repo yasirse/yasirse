@@ -11,11 +11,11 @@ I have worked on web development using custom PHP, CodeIgniter 3.0 and ASP.Net. 
 - Monitors timeliness of attendance at team meetings
 
 ## Attendance System (November 2016)
-#### Role:
-Team Lead
-#### Tools:
-MVC model by using Codeigniter, PHP Eclipse, Adobe Dreamweaver, Adobe Photoshop.
-#### Functions:
+**Role:**
+Team Lead<br/>
+**Tools:**
+MVC model by using Codeigniter, PHP Eclipse, Adobe Dreamweaver, Adobe Photoshop.<br/>
+**Functions:**
 * This system is integrated with RFID, it record their daily based attendance.
 * Employee can view their attendance.
 * It send email alert to employee of single entry , absent and leave application status.
