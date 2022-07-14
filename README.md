@@ -32,7 +32,7 @@ MVC model by using Codeigniter, PHP Eclipse, Adobe Dreamweaver, Adobe Photoshop.
 Portal developed to bring the alumni to single plateform. Alumni can share news, job, scholarship and success stories. They can connect each others. Admin can send news to all alumni.
 
 ### Oracle 11g DBA (Aug 2010-Aug 2015)
-**As dba responsibility include :<br\>
+As dba responsibility include :<br/>
 - Installing Oracle Database on window/linux
 - Installing Oracle Database on virtual Machine
 - Configuring the Network Environment
