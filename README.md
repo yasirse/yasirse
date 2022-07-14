@@ -11,15 +11,23 @@ I have worked on web development using custom PHP, CodeIgniter 3.0 and ASP.Net. 
 - Monitors timeliness of attendance at team meetings
 
 ## Attendance System (November 2016)
-**Role:**
+**Role:**<br/>
 Team Lead<br/>
-**Tools:**
+**Tools:**<br/>
 MVC model by using Codeigniter, PHP Eclipse, Adobe Dreamweaver, Adobe Photoshop.<br/>
 **Functions:**
 * This system is integrated with RFID, it record their daily based attendance.
 * Employee can view their attendance.
 * It send email alert to employee of single entry , absent and leave application status.
 * It has roles hierarchy i.e common user, manager1 manger2 and manager3
+
+## Alumni Portal (march-2016)
+**Role:**<br/>
+Developer<br/>
+**Tools:**<br/>
+MVC model by using Codeigniter, PHP Eclipse, Adobe Dreamweaver, Adobe Photoshop.<br/>
+**Details:**
+Portal developed to bring the alumni to single plateform. Alumni can share news, job, scholarship and success stories. They can connect each others. Admin can send news to all alumni.
 
 
 
