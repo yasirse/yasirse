@@ -36,7 +36,7 @@ Webmaster <br/>
 **Tools:**<br/>
 MVC model by using Codeigniter, PHP Eclipse, Adobe Dreamweaver, Adobe Photoshop.<br/>
 **Details:**<br/>
-Sites developed to enhance and accommodate university. Live Data Retrieval & Presentation from various data sources. Web Site Management & Development including User Login, Session Management and Complete Site Content Management. Sending Promotion Emails, News Letters.
+Sites developed to enhance and accommodate university. Live Data Retrieval & Presentation from various data sources. Web Site Management & Development including User Login, Session Management and Complete Site Content Management. Sending Promotion Emails, News Letters.<br/>
 [Campus website URL](http://isb.nu.edu.pk/)
 
 
@@ -71,7 +71,7 @@ SLATE is the University’s central collaboration and learning management system
 * Deployment using Apache tomcat
 * Load balancing using Apache
 * Build API to Import Local database into Sakai database
-* Technical Support
+* Technical Support<br/>
 [SLATE URL](http://slate.nu.edu.pk)
 ### Admission System (2011)
 **Role:**<br/>
