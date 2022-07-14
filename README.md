@@ -49,6 +49,19 @@ Portal developed to bring the alumni to single plateform. Alumni can share news,
 **My Oralce DBA Blog<br/>
 [Yasir Oracle DBA](http://yasirdba.blogspot.com/)
 
+## Learning management system  (Aug 2010-Sep 2013 ) 
+**Role:**<br\>
+Infra structure, Deployment and API Development<br\>
+**Technologies:**<br\>
+Eclipse IDE, Window server 2003/2008, Linux(centos/ubuntu), Oracle 9i<br\>
+**Details:**<br\>
+SLATE is the University’s central collaboration and learning management system. It provides an online space where students access learning resources within course sites, participate in online activities, and communicate with faculty, staff and other students. All courses offered by the University have a corresponding course website. SLATE also contains community websites which are used to support a range of other teaching and learning activities. My responsibility include <br\>
+* Infrastructure
+* Deployment using Apache tomcat
+* Load balancing using Apache
+* Build API to Import Local database into Sakai database
+* Technical Support
+
 
 
 
