@@ -72,6 +72,7 @@ SLATE is the University’s central collaboration and learning management system
 * Load balancing using Apache
 * Build API to Import Local database into Sakai database
 * Technical Support
+[SLATE URL](http://slate.nu.edu.pk)
 ### Admission System (2011)
 **Role:**<br/>
 Development and operation <br/>
