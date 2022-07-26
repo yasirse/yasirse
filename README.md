@@ -1,6 +1,14 @@
 ## Summary
-I am Prof. Yasir Arfat, I have 8 years of development and 4 years of teaching experience. During my development job,
-I have worked on web development using custom PHP, CodeIgniter 3.0 and ASP.Net. For website UI designing i have experience of CSS, Adobe photoshop, Javascript, JQuery and Boostrap. I have also worked on Sakai LMS(ERP) integration with University(FAST NU)student managment system in Java. I have worked as Oracel DBA. Also worked on mySQL and SQLServer. I’m currently learning Laravel, Vue.js and GitHub. I am looking for freelancing website project or job. You can contact ( yasir dot arfatse at gmail.com).
+I am Prof. Yasir Arfat, I have 8 years of development and 4 years of teaching experience. Now i have started freelancing. Currently I am Learning Laravel, VUE, GitHub, AWS.
+During my previous job, i have worked on following tools and technogies.
+1) Web Development using custom PHP, Codeigniter2 and ASP.NET
+2) JavaScript jQuery, CSS , Adobe Photoshop
+3) Apache httpserver, Apache tomcat and IIS
+3) Oracle Database administration, MySQL, SQLServer,
+4) Android Development
+5) Window server 2008 and Centos/Ubuntu
+6) Sakai LMS API development using Java.
+
 ### Login with Google account
 **Role**<br/>
 Developer
