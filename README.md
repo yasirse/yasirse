@@ -13,6 +13,7 @@ During my previous job, i have worked on following tools and technogies.
 **Role**<br/>
 Developer
 **Tools**<br/>
+Laravel, Jetstream API
 **Detail**<br/>
 I have developed a module in laravel using jetstream API. By module user can login website using google or gmail account.
 ### Lecturer(2018-present)
