@@ -9,6 +9,19 @@ During my previous job, i have worked on following tools and technogies.
 5) Window server 2008 and Centos/Ubuntu
 6) Sakai LMS API development using Java.
 
+### Responsive commerce website
+**Role**<br/>
+Developer and Designer
+**Tools**<br/>
+Front end tailwindcss,JavaScript, Vue.js and Backend Laravel9
+**Detail**<br/>
+I have developed and designed this website using laravel, tailwindcss, vue.js . It has functions
+1) Landing page with top Navbar
+2) Product List page
+3) Shoping card
+4) payment Integration with stripe
+5) Add to cart.
+
 ### Login with Google account
 **Role**<br/>
 Developer
