@@ -1,5 +1,5 @@
 ## Summary
-I am Prof. Yasir Arfat, I have 8 years of development and 4 years of teaching experience. Now i have started freelancing. Currently I am  working  Laravel, VUE, Tailwindcss, GitHub, AWS.
+I am freelancer. Currently I am  working  Laravel, VUE, Tailwindcss, GitHub, AWS.
 During my previous job, i have worked on following tools and technogies.
 1) Web Development using custom PHP, Codeigniter2 and ASP.NET
 2) JavaScript jQuery, CSS , Adobe Photoshop
