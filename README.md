@@ -21,6 +21,7 @@ I have developed and designed this website using laravel, tailwindcss, vue.js . 
 3) Shoping card
 4) payment Integration with stripe
 5) Add to cart.
+6) Stripe Checkout and Subscription
 
 ### Login with Google account
 **Role**<br/>
