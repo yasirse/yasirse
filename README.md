@@ -1,5 +1,5 @@
 ## Summary
-I am freelancer. Currently I am  working  Laravel, VUE, Tailwindcss, GitHub, AWS.
+I have 10 years of development experience. Currently I am  working on Laravel, VUE, Tailwindcss, GitHub, AWS and Stripe Integration.
 During my previous job, i have worked on following tools and technogies.
 1) Web Development using custom PHP, Codeigniter2 and ASP.NET
 2) JavaScript jQuery, CSS , Adobe Photoshop
@@ -15,7 +15,7 @@ Developer and Designer
 **Tools**<br/>
 Front end tailwindcss,JavaScript, Vue.js and Backend Laravel9
 **Detail**<br/>
-I have developed and designed this website using laravel, tailwindcss, vue.js . It has functions
+I have developed and designed this website using laravel, tailwindcss, vue.js . It has module
 1) Landing page with top Navbar
 2) Product List page
 3) Shoping card
