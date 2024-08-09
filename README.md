@@ -11,9 +11,9 @@ During my previous job, i have worked on following tools and technogies.
 7) 
 ### Ecommerce App
 **Role**<br/>
-Developer and Designer
+Developer and Designer<br/>
 **Tools**<br/>
-React.js, Node.js, bootstrap and MySql
+React.js, Node.js, bootstrap and MySql<br/>
 **Detail**<br/>
 I have developed and designed this website using React.js, Bootstrap,Node.js and MySql . It has module
 1) Landing page with top Navbar
@@ -24,9 +24,9 @@ I have developed and designed this website using React.js, Bootstrap,Node.js and
 6) Stripe Checkout and Subscription
 ### Responsive commerce website
 **Role**<br/>
-Developer and Designer
+Developer and Designer<br/>
 **Tools**<br/>
-Front end tailwindcss,JavaScript, Vue.js and Backend Laravel9
+Front end tailwindcss,JavaScript, Vue.js and Backend Laravel9<br/>
 **Detail**<br/>
 I have developed and designed this website using laravel, tailwindcss, vue.js . It has module
 1) Landing page with top Navbar
@@ -38,7 +38,7 @@ I have developed and designed this website using laravel, tailwindcss, vue.js . 
 
 ### Login with Google account
 **Role**<br/>
-Developer
+Developer<br/>
 **Tools**<br/>
 Laravel, Jetstream API
 **Detail**<br/>
