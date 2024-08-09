@@ -1,14 +1,27 @@
 ## Summary
 I have 10 years of development experience. Currently I am  working on Laravel, VUE, Tailwindcss, GitHub, AWS and Stripe Integration.
 During my previous job, i have worked on following tools and technogies.
-1) Web Development using custom PHP, Codeigniter2 and ASP.NET
+1) Web Development using custom React.js/Node.js ,PHP, Codeigniter2 and ASP.NET
 2) JavaScript jQuery, CSS , Adobe Photoshop
 3) Apache httpserver, Apache tomcat and IIS
 3) Oracle Database administration, MySQL, SQLServer,
 4) Android Development
 5) Window server 2008 and Centos/Ubuntu
 6) Sakai LMS API development using Java.
-
+7) 
+### Ecommerce App
+**Role**<br/>
+Developer and Designer
+**Tools**<br/>
+React.js, Node.js, bootstrap and MySql
+**Detail**<br/>
+I have developed and designed this website using React.js, Bootstrap,Node.js and MySql . It has module
+1) Landing page with top Navbar
+2) Product List page
+3) Shoping card
+4) payment Integration with stripe
+5) Add to cart.
+6) Stripe Checkout and Subscription
 ### Responsive commerce website
 **Role**<br/>
 Developer and Designer
