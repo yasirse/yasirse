@@ -1,8 +1,8 @@
 ## Summary
 I have 10 years of experience in software development, with a recent focus on web development using Node.js and React.js. I have successfully developed three applications using Node.js, React, Bootstrap, and Redux.
-(1) Ecommerce platform
-(2) News app
-(3) Text editor
+- Ecommerce platform
+- News app
+- Text editor
 Ecommerce applications has been integrated with both MySQL and MongoDB.
 
 In my previous role, I worked extensively with the following tools and technologies:
