@@ -47,12 +47,7 @@ Developer<br/>
 Laravel, Jetstream API
 **Detail**<br/>
 I have developed a module in laravel using jetstream API. By module user can login website using google or gmail account.
-### Lecturer, Computer Science|Higher Education Punjab
-Government Graduate College Chowk Azam - April 2018 - Current
-- Developed and implemented innovative teaching strategies to engage students in lectures and coursework.
-- Led seminars and workshops to facilitate student learning and engagement and increase memory retention.
-- Participated in professional development opportunities to stay current with industry trends and continuously improve instructional approaches.
-- Created materials and exercises to illustrate application of course concepts.
+
 ### Team LeadTeam Lead  (FAST-NU FAST-NU Dec 2016 - Sep 2017)
 - Consistently delivers working software that meets standards
 - Efficiently executes assigned actions
