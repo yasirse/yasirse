@@ -1,8 +1,5 @@
 ## Summary
-I have 15 years of experience in software development, with a recent focus on web development using Node.js and React.js. I have successfully developed three applications using Node.js, React, Bootstrap, and Redux.
-- Ecommerce platform
-- News app
-- Text editor
+I have 15 years of experience in software development. From last 04 years i am using React JS as front end and Node JS as backend both MySql and MongoDB.
 In my previous role, I worked extensively with the following tools and technologies:
 Web Development: Custom PHP, ASP.NET 4, CodeIgniter 2
 Frontend Technologies: JavaScript, jQuery, CSS, Adobe Photoshop
@@ -30,6 +27,7 @@ I have developed and designed this website using React.js, Bootstrap,Node.js. Ec
 10) Product(Reviews, Sales, Revenue)
 11) Refund
 12) User Roles(Admin, Customers)
+13) Email mangement
 ### Responsive commerce website
 **Role**<br/>
 Developer and Designer<br/>
