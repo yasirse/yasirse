@@ -7,7 +7,7 @@ Web Servers: Apache, Apache Tomcat, IIS
 Database Management: Oracle, MySQL, SQL Server
 Android Development
 Operating Systems: Windows Server 2008, CentOS, Ubuntu
-Sakai LMS: API Development using Java and Load Balancing with Apache Web Server
+Sakai LMS: API Development using Java and Load Balancing with Apache Web Server.
 ### Ecommerce App
 **Role**<br/>
 Developer and Designer<br/>
