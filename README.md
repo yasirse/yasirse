@@ -12,7 +12,7 @@ Sakai LMS: API Development using Java and Load Balancing with Apache Web Server
 **Role**<br/>
 Developer and Designer<br/>
 **Tools**<br/>
-React.js, Node.js, bootstrap and MySql and Mongo DB<br/>
+React.js, Node.js, bootstrap and MySql and MongoDB<br/>
 **Detail**<br/>
 I have developed and designed this website using React.js, Bootstrap,Node.js. Ecommerce applications has been integrated with both MySQL and MongoDB. It has module
 1) Landing page with top Navbar
