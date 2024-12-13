@@ -3,8 +3,6 @@ I have 15 years of experience in software development, with a recent focus on we
 - Ecommerce platform
 - News app
 - Text editor
-Ecommerce applications has been integrated with both MySQL and MongoDB.
-
 In my previous role, I worked extensively with the following tools and technologies:
 Web Development: Custom PHP, ASP.NET 4, CodeIgniter 2
 Frontend Technologies: JavaScript, jQuery, CSS, Adobe Photoshop
@@ -19,7 +17,7 @@ Developer and Designer<br/>
 **Tools**<br/>
 React.js, Node.js, bootstrap and MySql<br/>
 **Detail**<br/>
-I have developed and designed this website using React.js, Bootstrap,Node.js and MySql and MongoDB . It has module
+I have developed and designed this website using React.js, Bootstrap,Node.js. Ecommerce applications has been integrated with both MySQL and MongoDB. It has module
 1) Landing page with top Navbar
 2) Product List page
 3) Shoping card
