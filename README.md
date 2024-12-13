@@ -19,13 +19,19 @@ Developer and Designer<br/>
 **Tools**<br/>
 React.js, Node.js, bootstrap and MySql<br/>
 **Detail**<br/>
-I have developed and designed this website using React.js, Bootstrap,Node.js and MySql . It has module
+I have developed and designed this website using React.js, Bootstrap,Node.js and MySql and MongoDB . It has module
 1) Landing page with top Navbar
 2) Product List page
 3) Shoping card
 4) payment Integration with stripe
 5) Add to cart.
-6) Stripe Checkout and Subscription
+6) Stripe and Paypal Checkout and Subscription
+7) Dashboard
+8) Order (Shipping & Billing)
+9) Customers(Details)
+10) Product(Reviews, Sales, Revenue)
+11) Refund
+12) User Roles(Admin, Customers)
 ### Responsive commerce website
 **Role**<br/>
 Developer and Designer<br/>
