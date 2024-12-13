@@ -1,5 +1,5 @@
 ## Summary
-I have 10 years of experience in software development, with a recent focus on web development using Node.js and React.js. I have successfully developed three applications using Node.js, React, Bootstrap, and Redux.
+I have 15 years of experience in software development, with a recent focus on web development using Node.js and React.js. I have successfully developed three applications using Node.js, React, Bootstrap, and Redux.
 - Ecommerce platform
 - News app
 - Text editor
