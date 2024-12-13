@@ -1,12 +1,12 @@
 ## Summary
 I have 15 years of experience in software development. For the past 4 years, I have been using React.js as a front-end framework and Node.js as a back-end environment, working with both MySQL and MongoDB databases. In my previous role, I gained extensive experience with the following tools and technologies:
 
-*Web Development:* Custom PHP,CodeIgniter and Laravel.<br/>
-Frontend Technologies: JavaScript, jQuery, Bootstrap.<br/>
-Web Servers: Apache, Apache Tomcat, IIS<br/>
-Database Management: Oracle, MySQL<br/>
-Operating Systems: Windows Server 2008, CentOS, Ubuntu<br/>
-Sakai LMS: API development using Java and load balancing with the Apache web server<br/>
+**Web Development:** Custom PHP,CodeIgniter and Laravel.<br/>
+**Frontend Technologies:** JavaScript, jQuery, Bootstrap.<br/>
+**Web Servers:** Apache, Apache Tomcat, IIS<br/>
+**Database Management:** Oracle, MySQL<br/>
+**Operating Systems:** Windows Server 2008, CentOS, Ubuntu<br/>
+**Sakai LMS:** API development using Java and load balancing with the Apache web server<br/>
 ### Ecommerce App
 **Role**<br/>
 Developer and Designer<br/>
