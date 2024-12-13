@@ -121,7 +121,7 @@ SLATE is the University’s central collaboration and learning management system
 [SLATE URL](http://slate.nu.edu.pk)
 ### Admission System (2011)
 **Role:**<br/>
-Development and operation <br/>
+Deployment and operation <br/>
 **Tools:**<br/>
 C# ASP.NET, Oracle  <br/>
 **Details:**<br/>
