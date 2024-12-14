@@ -7,6 +7,7 @@ I have 15 years of experience in software development. For the past 4 years, I h
 **Database Management:** Oracle, MySQL<br/>
 **Operating Systems:** Windows Server 2008, CentOS, Ubuntu<br/>
 **Sakai LMS:** API development using Java and load balancing with the Apache web server<br/>
+
 ### Ecommerce App
 **Role**<br/>
 Developer and Designer<br/>
@@ -14,20 +15,23 @@ Developer and Designer<br/>
 React.js, Node.js, bootstrap and MySql and MongoDB<br/>
 **Detail**<br/>
 I have developed and designed this website using React.js, Bootstrap,Node.js. Ecommerce applications has been integrated with both MySQL and MongoDB. It has module
-1) Landing page with top Navbar
-2) Product List page
-3) Shoping card
-4) payment Integration with stripe
-5) Add to cart.
-6) Stripe and Paypal Checkout and Subscription
-7) Dashboard
-8) Order (Shipping & Billing)
-9) Customers(Details)
-10) Product(Reviews, Sales, Revenue)
-11) Refund
-12) User Roles(Admin, Customers)
-13) Email mangement
-### Responsive commerce website
+User Management Module,
+Product Management Module,
+Order Management Module,
+Cart & Wishlist Module,
+Checkout & Payment Module,
+Shipping & Delivery Module,
+Payment Gateway Integration Module,
+Content Management System (CMS) Module,
+Discounts, Offers & Coupons Module,
+Notification & Email Module,
+Reports & Analytics Module,
+Security & Compliance Module,
+Customer Support / Chat Module,
+Audit & Logging Module,
+Reviews & Rating Module,
+Search & Filter Module
+### Responsive commerce website using Laravel
 **Role**<br/>
 Developer and Designer<br/>
 **Tools**<br/>
