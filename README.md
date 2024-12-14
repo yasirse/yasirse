@@ -15,22 +15,22 @@ Developer and Designer<br/>
 React.js, Node.js, bootstrap and MySql and MongoDB<br/>
 **Detail**<br/>
 I have developed and designed this website using React.js, Bootstrap,Node.js. Ecommerce applications has been integrated with both MySQL and MongoDB. It has module
-User Management,<br/>
-Product Management,<br/>
-Order Management,<br/>
-Cart & Wishlist,<br/>
-Checkout & Payment,<br/>
-Shipping & Delivery,<br/>
-Payment Gateway Integration,<br/>
-Content Management System (CMS),<br/>
-Discounts, Offers & Coupons,<br/>
-Notification & Email,<br/>
-Reports & Analytics,<br/>
-Security & Compliance,<br/>
-Customer Support / Chat,<br/>
-Audit & Logging,<br/>
-Reviews & Rating,<br/>
-Search & Filter <br/>
+1) User Management,<br/>
+2) Product Management,<br/>
+3) Order Management,<br/>
+4) Cart & Wishlist,<br/>
+5) Checkout & Payment,<br/>
+6) Shipping & Delivery,<br/>
+7) Payment Gateway Integration,<br/>
+8) Content Management System (CMS),<br/>
+9) Discounts, Offers & Coupons,<br/>
+10) Notification & Email,<br/>
+11) Reports & Analytics,<br/>
+12) Security & Compliance,<br/>
+13) Customer Support / Chat,<br/>
+14) Audit & Logging,<br/>
+15) Reviews & Rating,<br/>
+16) Search & Filter <br/>
 ### Responsive commerce website using Laravel
 **Role**<br/>
 Developer and Designer<br/>
