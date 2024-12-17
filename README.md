@@ -8,9 +8,9 @@ I have 15 years of experience in software development. For the past 4 years, I h
 **Operating Systems:** Windows Server 2008, CentOS, Ubuntu<br/>
 **Sakai LMS:** API development using Java and load balancing with the Apache web server<br/>
 
-### Ecommerce App
+### Senior Full-stack Developer at Quecko Inc.
 **Role**<br/>
-Developer and Designer<br/>
+Leading Project Development<br/>
 **Tools**<br/>
 React.js, Node.js, bootstrap and MySql and MongoDB<br/>
 **Detail**<br/>
