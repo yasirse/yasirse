@@ -10,7 +10,7 @@ I have 15 years of experience in software development. For the past 4 years, I h
 
 ### Senior Full-stack Developer at Quecko Inc.
 **Role**<br/>
-Leading Project Development<br/>
+Project Lead <br/>
 **Tools**<br/>
 React.js, Node.js, bootstrap and MySql and MongoDB<br/>
 **Detail**<br/>
