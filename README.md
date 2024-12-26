@@ -52,7 +52,8 @@ Developer<br/>
 Laravel, Jetstream API
 **Detail**<br/>
 I have developed a module in laravel using jetstream API. By module user can login website using google or gmail account.
-### Team LeadTeam Lead  (OdoCode Dec 2018 - Present)
+### CTO  (OdoCode Dec 2018 - Present)
+- Clients meeting, Project Documentation, Requirements, Development and delivering solutions.
 ### Team LeadTeam Lead  (FAST-NU FAST-NU Dec 2016 - Sep 2017)
 - Consistently delivers working software that meets standards
 - Efficiently executes assigned actions
