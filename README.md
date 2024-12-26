@@ -8,7 +8,7 @@ I have 15 years of experience in software development. For the past 4 years, I h
 **Operating Systems:** Windows Server 2008, CentOS, Ubuntu<br/>
 **Sakai LMS:** API development using Java and load balancing with the Apache web server<br/>
 
-### Senior Full-stack Developer at Quecko Inc.
+### Senior Software Engineer at Logical Web Solution(2022-present).
 **Role**<br/>
 Project Lead <br/>
 **Tools**<br/>
@@ -31,7 +31,7 @@ I have developed and designed this website using React.js, Bootstrap,Node.js. Ec
 14) Audit & Logging,<br/>
 15) Reviews & Rating,<br/>
 16) Search & Filter <br/>
-### Responsive commerce website using Laravel
+## Responsive commerce website using Laravel
 **Role**<br/>
 Developer and Designer<br/>
 **Tools**<br/>
@@ -45,14 +45,14 @@ I have developed and designed this website using laravel, tailwindcss, vue.js . 
 5) Add to cart.
 6) Stripe Checkout and Subscription
 
-### Login with Google account
+## Login with Google account
 **Role**<br/>
 Developer<br/>
 **Tools**<br/>
 Laravel, Jetstream API
 **Detail**<br/>
 I have developed a module in laravel using jetstream API. By module user can login website using google or gmail account.
-
+### Team LeadTeam Lead  (OdoCode Dec 2018 - Present)
 ### Team LeadTeam Lead  (FAST-NU FAST-NU Dec 2016 - Sep 2017)
 - Consistently delivers working software that meets standards
 - Efficiently executes assigned actions
