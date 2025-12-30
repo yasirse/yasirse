@@ -1,5 +1,5 @@
 ## Summary
-I have 15 years of experience in software development. For the past 4 years, I have been using React.js as a front-end framework and Node.js as a back-end environment, working with both MySQL and MongoDB databases. In my previous role, I gained extensive experience with the following tools and technologies:
+A hardworking and quick learner with more than 15 years’ experience in web development , deployment and database administration. Ability to sort out complex problems and take quick measures to resolve the issues. I have been part of teams responsible for development of next generation software, from initial requirement gathering to design, coding, testing, documentation and implementation.
 
 **Frontend:** React.js, JavaScript (ES6+), Bootstrap, Tailwind CSS  
 **Backend:** ASP.NET, C#, Node.js, Express.js, PHP, CodeIgniter  
