@@ -8,8 +8,9 @@ A hardworking and quick learner with more than 15 years’ experience in web dev
 **Version Control:** Git, GitHub  
 **Operating Systems:** Windows Server, Linux (Ubuntu, CentOS) 
 
+### Princpal Software Engineer at Logical Web Solution(Mar 2022- Present).
 
-### Senior Software Engineer at Logical Web Solution(2022-present).
+### Senior Software Engineer at Logical Web Solution(Feb 2020- May 2022).
 **Role**<br/>
 Project Lead <br/>
 **Tools**<br/>
@@ -53,7 +54,7 @@ Developer<br/>
 Laravel, Jetstream API
 **Detail**<br/>
 I have developed a module in laravel using jetstream API. By module user can login website using google or gmail account.
-### CTO  (OdoCode Dec 2018 - Present)
+### Freelancer Web Developer  ( Oct 2017 - Feb 2020)
 - Clients meeting, Project Documentation, Requirements, Development and delivering solutions.
 ### Team LeadTeam Lead  (FAST-NU FAST-NU Dec 2016 - Sep 2017)
 - Consistently delivers working software that meets standards
