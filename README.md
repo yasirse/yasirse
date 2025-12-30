@@ -17,7 +17,7 @@ A hardworking and quick learner with more than 15 years’ experience in web dev
 **Role**<br/>
 Project Lead <br/>
 **Tools**<br/>
-C#, ASP.NET, React.js, MSSSQL Server<br/>
+C#, ASP.NET, React.js, MS SQL Server<br/>
 **Detail**<br/>
 •	Designed and developed a comprehensive School Management System to automate academic and administrative tasks.
 •	Key features included student enrollment, attendance tracking, class scheduling, exam and grade management, teacher and parent portals, user authentication and  admin dashboard for managing staff, fee and reports.
