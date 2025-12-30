@@ -13,7 +13,7 @@ A hardworking and quick learner with more than 15 years’ experience in web dev
 •	Lead technical decisions, define engineering standards, and review critical designs/code
 •	Ensure solutions are secure, scalable, maintainable, and cost-effective
 
-##School Management System	Company Logical WebSol | Role: Senior Full Stack Developer | Tools Used: C#, ASP.NET, React.js, MSSQL Server##
+## School Management System	Company Logical WebSol | Role: Senior Full Stack Developer | Tools Used: C#, ASP.NET, React.js, MSSQL Server##
 •	Designed and developed a comprehensive School Management System to automate academic and administrative tasks.
 •	Key features included student enrollment, attendance tracking, class scheduling, exam and grade management, teacher and parent portals, user authentication and  admin dashboard for managing staff, fee and reports.
 •	Improved overall operational efficiency by 40%.
