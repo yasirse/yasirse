@@ -9,6 +9,15 @@ A hardworking and quick learner with more than 15 years’ experience in web dev
 **Operating Systems:** Windows Server, Linux (Ubuntu, CentOS) 
 
 ### Princpal Software Engineer at Logical Web Solution(Mar 2022- Present).
+•	Design and evolve architecture for large-scale, distributed, high-availability systems
+•	Lead technical decisions, define engineering standards, and review critical designs/code
+•	Ensure solutions are secure, scalable, maintainable, and cost-effective
+
+##School Management System	Company Logical WebSol | Role: Senior Full Stack Developer | Tools Used: C#, ASP.NET, React.js, MSSQL Server##
+•	Designed and developed a comprehensive School Management System to automate academic and administrative tasks.
+•	Key features included student enrollment, attendance tracking, class scheduling, exam and grade management, teacher and parent portals, user authentication and  admin dashboard for managing staff, fee and reports.
+•	Improved overall operational efficiency by 40%.
+
 
 ### Senior Software Engineer at Logical Web Solution(Feb 2020- May 2022).
 **Role**<br/>
@@ -56,7 +65,7 @@ Laravel, Jetstream API
 I have developed a module in laravel using jetstream API. By module user can login website using google or gmail account.
 ### Freelancer Web Developer  ( Oct 2017 - Feb 2020)
 - Clients meeting, Project Documentation, Requirements, Development and delivering solutions.
-### Team LeadTeam Lead  (FAST-NU FAST-NU Dec 2016 - Sep 2017)
+### Team Lead/Software Engineer  (FAST-NU Aug 2016 - Sep 2017)
 - Consistently delivers working software that meets standards
 - Efficiently executes assigned actions
 - Ensures applications meet the acceptance criteria
@@ -140,13 +149,6 @@ Deployment and operation <br/>
 Window server 2003 WMwear ,Oracle 9i<br/>
 **Details:**<br/>
 Qsetup is designed to handle students Queue during Admission process. Administrator can set By Pass Time And maximum number of bypass call for a particular token. Set Priority For the customer Like Privileged Customer and Customer. Configure Full Day Closer time as well as half day closer time. Configure Pause reasons. Reassign token from one type to another.• View the online stands counter wise, service wise & user wise.
-### Lead Management System (2010)
-**Role:**<br/>
-Developer<br/>
-**Tools:**<br/>
-PHP Eclipse, Adobe Dreamweaver.<br/>
-**Details:**<br/>
-LMS lead & contact management system automates the entire lead processing function, from lead capture, analysis and assignment, through to "closed loop" contact management and detailed status / trend reports. There are features like email notifications/reminders, report generators etc in this system.
 
 ### Search Engine (2010)
 **Role:**<br/>
