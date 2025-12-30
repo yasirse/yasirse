@@ -13,7 +13,7 @@ A hardworking and quick learner with more than 15 years’ experience in web dev
 •	Lead technical decisions, define engineering standards, and review critical designs/code
 •	Ensure solutions are secure, scalable, maintainable, and cost-effective
 
-## School Management System	Company Logical WebSol ##
+## School Management System	Company Logical WebSol 
 **Role**<br/>
 Project Lead <br/>
 **Tools**<br/>
